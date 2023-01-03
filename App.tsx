@@ -74,7 +74,7 @@ const App = () => {
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
         <Header />
-        <Text>dsaafs</Text>
+        <Text>jami</Text>
         <View
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
